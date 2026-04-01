@@ -76,3 +76,41 @@ This indicator helps measure ongoing strain during pandemic phases.
 ---
 
 ## 📂 Project Structure
+pandemic-risk-analyzer
+│
+├── data/
+├── images/
+├── notebooks/
+│ └── analysis.ipynb
+└── README.md
+
+---
+
+## 🔬 Research Background
+
+- Published Data Science Research Author
+- Two-time Best Research Paper Award Winner
+- Focus Areas:
+  - Data Analytics
+  - Predictive Modeling
+  - AI-driven Decision Systems
+
+---
+
+## 🔮 Future Improvements
+
+- Machine Learning prediction models
+- Real-time dashboard
+- Pandemic outbreak forecasting
+- Risk classification using ML algorithms
+
+---
+
+## 👨‍💻 Author
+
+**Shllok Tahiliani**
+
+B.Tech AI & Data Science Engineering  
+10 CGPA (Semester 1)  
+JEE Mains: 97.4 Percentile  
+IGCSE: 95.86% (7 A*)
