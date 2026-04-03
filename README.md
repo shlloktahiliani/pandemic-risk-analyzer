@@ -1,10 +1,10 @@
-# 🦠 Pandemic Risk Analyzer
+# Pandemic Risk Analyzer
 
 An AI-driven data science project analyzing global pandemic trends and estimating risk progression using real-world COVID-19 datasets.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project converts academic research in data science into an applied analytical system.
 
@@ -17,7 +17,7 @@ The Pandemic Risk Analyzer studies historical pandemic data to:
 
 ---
 
-## 🧠 Motivation
+## Motivation
 
 During my research work in Data Science, I explored how data-driven decision systems can help predict and understand large-scale health crises.
 
@@ -25,7 +25,7 @@ This repository demonstrates how research concepts can be transformed into pract
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 Source: Johns Hopkins COVID-19 Global Dataset
 
@@ -39,7 +39,7 @@ Data Includes:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
@@ -49,7 +49,7 @@ Data Includes:
 
 ---
 
-## 📈 Key Visualizations
+## Key Visualizations
 
 ### Global Case Trend
 ![Global Cases](images/global_cases.png)
@@ -65,7 +65,7 @@ Data Includes:
 
 ---
 
-## 🧪 Pandemic Risk Index
+## Pandemic Risk Index
 
 Custom metric:
 
@@ -75,7 +75,7 @@ This indicator helps measure ongoing strain during pandemic phases.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 pandemic-risk-analyzer
 │
 ├── data/
@@ -86,7 +86,7 @@ pandemic-risk-analyzer
 
 ---
 
-## 🔬 Research Background
+## Research Background
 
 - Published Data Science Research Author
 - Two-time Best Research Paper Award Winner
@@ -97,7 +97,7 @@ pandemic-risk-analyzer
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Machine Learning prediction models
 - Real-time dashboard
@@ -106,11 +106,7 @@ pandemic-risk-analyzer
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Shllok Tahiliani**
 
-B.Tech AI & Data Science Engineering  
-10 CGPA (Semester 1)  
-JEE Mains: 97.4 Percentile  
-IGCSE: 95.86% (7 A*)
